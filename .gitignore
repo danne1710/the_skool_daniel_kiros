@@ -1,0 +1,7 @@
+.e
+*.swp
+*.swo
+*~
+.venv/
+__psycache__/
+
