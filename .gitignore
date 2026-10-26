@@ -1,7 +1,10 @@
-.e
+.env
+
+*.save
 *.swp
 *.swo
 *~
 .venv/
-__psycache__/
-
+__psyche__/
+*.pyc
+.DS_Store
