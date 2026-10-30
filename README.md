@@ -53,7 +53,7 @@ Röd tråd: Var har The Skool bäst chans att få ansökningar beviljade?**
 Fråga 1: Beviljandegrad per utbildningsområde
 ![Beviljandegrad](images/3_fraga1_beviljandegrad.png)
 
-Data/IT har näst flest ansökningar men lägst beviljandegrad, 14 %.
+Data/IT har tredje flest ansökningar men lägst beviljandegrad, 14 %.
 Teknik och tillverkning samt Hälso- och sjukvård ligger runt 53 %.
 
 Fråga 2: AI-utbildningar
